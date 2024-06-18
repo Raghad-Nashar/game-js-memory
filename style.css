@@ -1,0 +1,21 @@
+body{
+    background-color: gainsboro;
+}
+#main{
+    width: 420px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background: rgba(255, 192, 203, 0.5);
+    overflow: hidden;
+}
+img{
+    width: 130px;
+    height:130px;
+    opacity: 0;
+}
+div{
+    cursor: pointer;
+    float: left;
+    background:url(img/images.jfif) center center;
+    margin:5px;
+}
